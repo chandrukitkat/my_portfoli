@@ -50,7 +50,7 @@ export default function Hero({ playSound }) {
           </div>
 
           <h1 className="hero-title">
-            I am<span className="gradient-text"> Chandru</span> 
+            I am<span className="gradient-text"> Chandru</span>
           </h1>
 
           <div className="role-container">
@@ -59,7 +59,7 @@ export default function Hero({ playSound }) {
           </div>
 
           <p className="hero-description">
-            Passionate about building highly responsive, scalable, and visually stunning web applications. 
+            Passionate about building highly responsive, scalable, and visually stunning web applications.
             Transforming complex ideas into sleek user interfaces using React, JavaScript, and modern CSS Web Development.
           </p>
 
@@ -83,8 +83,8 @@ export default function Hero({ playSound }) {
             >
               <GithubIcon size={20} />
             </a>
-           
-           
+
+
             <a
               href="mailto:thechandru9442@gmail.com"
               className="hero-social-link"
